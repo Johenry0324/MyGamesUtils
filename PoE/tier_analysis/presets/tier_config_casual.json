@@ -1,0 +1,2174 @@
+{
+  "preset_mode": "casual",
+  "description": "Show tier 0-2 items AND tier 3+ items (all tiers, suitable for leveling)",
+  "tiers": {
+    "stack3": {
+      "enabled": false,
+      "category": "Gold/Currency",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: stack3 (Preset: casual)"
+    },
+    "stack2": {
+      "enabled": false,
+      "category": "Gold/Currency",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: stack2 (Preset: casual)"
+    },
+    "stack1": {
+      "enabled": false,
+      "category": "Gold/Currency",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: stack1 (Preset: casual)"
+    },
+    "stack1lvl": {
+      "enabled": false,
+      "category": "Gold/Currency",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: stack1lvl (Preset: casual)"
+    },
+    "any": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: any (Preset: casual)"
+    },
+    "superexoticbases": {
+      "enabled": true,
+      "category": "Exotic/Exceptional",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: superexoticbases (Preset: casual)"
+    },
+    "kalandrabases": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: kalandrabases (Preset: casual)"
+    },
+    "commonexoticbaseshigh": {
+      "enabled": true,
+      "category": "Exotic/Exceptional",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: commonexoticbaseshigh (Preset: casual)"
+    },
+    "commonexoticbases": {
+      "enabled": true,
+      "category": "Exotic/Exceptional",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: commonexoticbases (Preset: casual)"
+    },
+    "questlike": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: questlike (Preset: casual)"
+    },
+    "questitems": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: questitems (Preset: casual)"
+    },
+    "fishingrod": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: fishingrod (Preset: casual)"
+    },
+    "overqual1q1": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: overqual1q1 (Preset: casual)"
+    },
+    "oversockt1s3": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: oversockt1s3 (Preset: casual)"
+    },
+    "oversockt1s2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: oversockt1s2 (Preset: casual)"
+    },
+    "chancingoverqual": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: chancingoverqual (Preset: casual)"
+    },
+    "chancingoversocket3": {
+      "enabled": true,
+      "category": "Sockets",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: chancingoversocket3 (Preset: casual)"
+    },
+    "chancingoversocket2": {
+      "enabled": true,
+      "category": "Sockets",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: chancingoversocket2 (Preset: casual)"
+    },
+    "oversockt2s3": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: oversockt2s3 (Preset: casual)"
+    },
+    "oversockt2s2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: oversockt2s2 (Preset: casual)"
+    },
+    "overqual1q2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: overqual1q2 (Preset: casual)"
+    },
+    "chances": {
+      "enabled": false,
+      "category": "Chancing",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: chances (Preset: casual)"
+    },
+    "chancea": {
+      "enabled": true,
+      "category": "Chancing",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: chancea (Preset: casual)"
+    },
+    "chanceany": {
+      "enabled": true,
+      "category": "Chancing",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: chanceany (Preset: casual)"
+    },
+    "cmboots": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: cmboots (Preset: casual)"
+    },
+    "cmamulets": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: cmamulets (Preset: casual)"
+    },
+    "cmcasterweapons": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: cmcasterweapons (Preset: casual)"
+    },
+    "cmsceptres": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: cmsceptres (Preset: casual)"
+    },
+    "cmranged": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: cmranged (Preset: casual)"
+    },
+    "cmspears": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: cmspears (Preset: casual)"
+    },
+    "cm2handed": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: cm2handed (Preset: casual)"
+    },
+    "basicraredecorator": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: basicraredecorator (Preset: casual)"
+    },
+    "largerares": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: largerares (Preset: casual)"
+    },
+    "mediumrares1": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: mediumrares1 (Preset: casual)"
+    },
+    "mediumrares2": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: mediumrares2 (Preset: casual)"
+    },
+    "tinyrares": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: tinyrares (Preset: casual)"
+    },
+    "ilvl80": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: ilvl80 (Preset: casual)"
+    },
+    "ilvl82": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: ilvl82 (Preset: casual)"
+    },
+    "ilvl81caster": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: ilvl81caster (Preset: casual)"
+    },
+    "corruptedrares": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: corruptedrares (Preset: casual)"
+    },
+    "corruptedraresimplicit": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: corruptedraresimplicit (Preset: casual)"
+    },
+    "hideweaponsbytype": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: hideweaponsbytype (Preset: casual)"
+    },
+    "arhider": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: arhider (Preset: casual)"
+    },
+    "evhider": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: evhider (Preset: casual)"
+    },
+    "eshider": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: eshider (Preset: casual)"
+    },
+    "arevhider": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: arevhider (Preset: casual)"
+    },
+    "areshider": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: areshider (Preset: casual)"
+    },
+    "eveshider": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: eveshider (Preset: casual)"
+    },
+    "gear4a": {
+      "enabled": true,
+      "category": "Gear - Tier 4",
+      "tier_level": 4,
+      "unidentified_tier": null,
+      "description": "Tier: gear4a (Preset: casual)"
+    },
+    "gear3a": {
+      "enabled": true,
+      "category": "Gear - Tier 3",
+      "tier_level": 3,
+      "unidentified_tier": null,
+      "description": "Tier: gear3a (Preset: casual)"
+    },
+    "gear2a": {
+      "enabled": true,
+      "category": "Gear - Tier 2",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: gear2a (Preset: casual)"
+    },
+    "gear4b": {
+      "enabled": true,
+      "category": "Gear - Tier 4",
+      "tier_level": 4,
+      "unidentified_tier": null,
+      "description": "Tier: gear4b (Preset: casual)"
+    },
+    "gear3b": {
+      "enabled": true,
+      "category": "Gear - Tier 3",
+      "tier_level": 3,
+      "unidentified_tier": null,
+      "description": "Tier: gear3b (Preset: casual)"
+    },
+    "gear2b": {
+      "enabled": true,
+      "category": "Gear - Tier 2",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: gear2b (Preset: casual)"
+    },
+    "gear4c": {
+      "enabled": true,
+      "category": "Gear - Tier 4",
+      "tier_level": 4,
+      "unidentified_tier": null,
+      "description": "Tier: gear4c (Preset: casual)"
+    },
+    "gear3c": {
+      "enabled": true,
+      "category": "Gear - Tier 3",
+      "tier_level": 3,
+      "unidentified_tier": null,
+      "description": "Tier: gear3c (Preset: casual)"
+    },
+    "gear2c": {
+      "enabled": true,
+      "category": "Gear - Tier 2",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: gear2c (Preset: casual)"
+    },
+    "j4a": {
+      "enabled": true,
+      "category": "Jewellery - Tier 4",
+      "tier_level": 4,
+      "unidentified_tier": null,
+      "description": "Tier: j4a (Preset: casual)"
+    },
+    "j3a": {
+      "enabled": true,
+      "category": "Jewellery - Tier 3",
+      "tier_level": 3,
+      "unidentified_tier": null,
+      "description": "Tier: j3a (Preset: casual)"
+    },
+    "j2a": {
+      "enabled": true,
+      "category": "Jewellery - Tier 2",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: j2a (Preset: casual)"
+    },
+    "j4b": {
+      "enabled": true,
+      "category": "Jewellery - Tier 4",
+      "tier_level": 4,
+      "unidentified_tier": null,
+      "description": "Tier: j4b (Preset: casual)"
+    },
+    "j3b": {
+      "enabled": true,
+      "category": "Jewellery - Tier 3",
+      "tier_level": 3,
+      "unidentified_tier": null,
+      "description": "Tier: j3b (Preset: casual)"
+    },
+    "j2b": {
+      "enabled": true,
+      "category": "Jewellery - Tier 2",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: j2b (Preset: casual)"
+    },
+    "j4c": {
+      "enabled": true,
+      "category": "Jewellery - Tier 4",
+      "tier_level": 4,
+      "unidentified_tier": null,
+      "description": "Tier: j4c (Preset: casual)"
+    },
+    "j3c": {
+      "enabled": true,
+      "category": "Jewellery - Tier 3",
+      "tier_level": 3,
+      "unidentified_tier": null,
+      "description": "Tier: j3c (Preset: casual)"
+    },
+    "j2c": {
+      "enabled": true,
+      "category": "Jewellery - Tier 2",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: j2c (Preset: casual)"
+    },
+    "anyremaining5": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 5,
+      "unidentified_tier": null,
+      "description": "Tier: anyremaining5 (Preset: casual)"
+    },
+    "anyremaining4": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 4,
+      "unidentified_tier": null,
+      "description": "Tier: anyremaining4 (Preset: casual)"
+    },
+    "toplevelqualityflasks": {
+      "enabled": true,
+      "category": "Endgame",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: toplevelqualityflasks (Preset: casual)"
+    },
+    "toplevelflasks": {
+      "enabled": true,
+      "category": "Endgame",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: toplevelflasks (Preset: casual)"
+    },
+    "earlymappinglifemana": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: earlymappinglifemana (Preset: casual)"
+    },
+    "topqualitycharms": {
+      "enabled": true,
+      "category": "Charms",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: topqualitycharms (Preset: casual)"
+    },
+    "hight1charms": {
+      "enabled": true,
+      "category": "Charms",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: hight1charms (Preset: casual)"
+    },
+    "highothercharms": {
+      "enabled": true,
+      "category": "Charms",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: highothercharms (Preset: casual)"
+    },
+    "qualitycharms": {
+      "enabled": true,
+      "category": "Charms",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: qualitycharms (Preset: casual)"
+    },
+    "earlymappingcharms": {
+      "enabled": true,
+      "category": "Charms",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: earlymappingcharms (Preset: casual)"
+    },
+    "anycharm": {
+      "enabled": true,
+      "category": "Charms",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: anycharm (Preset: casual)"
+    },
+    "quality2martialany": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: quality2martialany (Preset: casual)"
+    },
+    "quality2casterany": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: quality2casterany (Preset: casual)"
+    },
+    "quality2armorany": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: quality2armorany (Preset: casual)"
+    },
+    "quality2flask": {
+      "enabled": true,
+      "category": "Flasks",
+      "tier_level": 2,
+      "unidentified_tier": null,
+      "description": "Tier: quality2flask (Preset: casual)"
+    },
+    "qualitymartialany": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: qualitymartialany (Preset: casual)"
+    },
+    "qualitycasterany": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: qualitycasterany (Preset: casual)"
+    },
+    "qualityarmorany": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: qualityarmorany (Preset: casual)"
+    },
+    "qualityflask": {
+      "enabled": true,
+      "category": "Flasks",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: qualityflask (Preset: casual)"
+    },
+    "socketslarge1": {
+      "enabled": true,
+      "category": "Sockets",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: socketslarge1 (Preset: casual)"
+    },
+    "socketslarge2": {
+      "enabled": true,
+      "category": "Sockets",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: socketslarge2 (Preset: casual)"
+    },
+    "socketssmall": {
+      "enabled": true,
+      "category": "Sockets",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: socketssmall (Preset: casual)"
+    },
+    "regulargeardecorator": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: regulargeardecorator (Preset: casual)"
+    },
+    "normal80": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normal80 (Preset: casual)"
+    },
+    "normal82": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normal82 (Preset: casual)"
+    },
+    "qualitydecorator1": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: qualitydecorator1 (Preset: casual)"
+    },
+    "qualitydecorator2": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: qualitydecorator2 (Preset: casual)"
+    },
+    "normaldecoratorjwlry": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normaldecoratorjwlry (Preset: casual)"
+    },
+    "wands": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: wands (Preset: casual)"
+    },
+    "t1ideallevel": {
+      "enabled": true,
+      "category": "Leveling",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t1ideallevel (Preset: casual)"
+    },
+    "t2ideallevel": {
+      "enabled": true,
+      "category": "Leveling",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t2ideallevel (Preset: casual)"
+    },
+    "t3ideallevel": {
+      "enabled": false,
+      "category": "Leveling",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t3ideallevel (Preset: casual)"
+    },
+    "minionsceptresoptional": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: minionsceptresoptional (Preset: casual)"
+    },
+    "t1": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t1 (Preset: casual)"
+    },
+    "t2onlevel": {
+      "enabled": true,
+      "category": "Leveling",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t2onlevel (Preset: casual)"
+    },
+    "t3onlevel": {
+      "enabled": true,
+      "category": "Leveling",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t3onlevel (Preset: casual)"
+    },
+    "jt1ideallevel": {
+      "enabled": true,
+      "category": "Jewellery - Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: jt1ideallevel (Preset: casual)"
+    },
+    "jt2ideallevel": {
+      "enabled": true,
+      "category": "Jewellery - Tier 2",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: jt2ideallevel (Preset: casual)"
+    },
+    "jt3ideallevel": {
+      "enabled": true,
+      "category": "Jewellery - Tier 3",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: jt3ideallevel (Preset: casual)"
+    },
+    "jt4ideallevel": {
+      "enabled": true,
+      "category": "Jewellery - Tier 4",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: jt4ideallevel (Preset: casual)"
+    },
+    "jt1": {
+      "enabled": true,
+      "category": "Jewellery - Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: jt1 (Preset: casual)"
+    },
+    "jt2": {
+      "enabled": true,
+      "category": "Jewellery - Tier 2",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: jt2 (Preset: casual)"
+    },
+    "jt3": {
+      "enabled": true,
+      "category": "Jewellery - Tier 3",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: jt3 (Preset: casual)"
+    },
+    "jt4": {
+      "enabled": true,
+      "category": "Jewellery - Tier 4",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: jt4 (Preset: casual)"
+    },
+    "magicdecoratorremover": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: magicdecoratorremover (Preset: casual)"
+    },
+    "normaldecoratorremover": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normaldecoratorremover (Preset: casual)"
+    },
+    "normalmagicendgameany": {
+      "enabled": true,
+      "category": "Endgame",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: normalmagicendgameany (Preset: casual)"
+    },
+    "normalmagicendgame": {
+      "enabled": true,
+      "category": "Endgame",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normalmagicendgame (Preset: casual)"
+    },
+    "idhider": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: idhider (Preset: casual)"
+    },
+    "t2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t2 (Preset: casual)"
+    },
+    "t3": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t3 (Preset: casual)"
+    },
+    "t4": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t4 (Preset: casual)"
+    },
+    "t1_top": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t1_top (Preset: casual)"
+    },
+    "t1_other": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t1_other (Preset: casual)"
+    },
+    "t2_top": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t2_top (Preset: casual)"
+    },
+    "t2_a1": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t2_a1 (Preset: casual)"
+    },
+    "t2_other": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t2_other (Preset: casual)"
+    },
+    "t3_top": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t3_top (Preset: casual)"
+    },
+    "t3_a1": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t3_a1 (Preset: casual)"
+    },
+    "t3_a2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t3_a2 (Preset: casual)"
+    },
+    "t3_other": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t3_other (Preset: casual)"
+    },
+    "t4_a1": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t4_a1 (Preset: casual)"
+    },
+    "t4_a2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t4_a2 (Preset: casual)"
+    },
+    "t4_other": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t4_other (Preset: casual)"
+    },
+    "t5_a1": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t5_a1 (Preset: casual)"
+    },
+    "t5_a2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t5_a2 (Preset: casual)"
+    },
+    "t5_other": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t5_other (Preset: casual)"
+    },
+    "raresendgameany": {
+      "enabled": true,
+      "category": "Endgame",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: raresendgameany (Preset: casual)"
+    },
+    "raresendgame": {
+      "enabled": true,
+      "category": "Endgame",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: raresendgame (Preset: casual)"
+    },
+    "socketleveling1": {
+      "enabled": true,
+      "category": "Leveling",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: socketleveling1 (Preset: casual)"
+    },
+    "socketleveling2": {
+      "enabled": true,
+      "category": "Leveling",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: socketleveling2 (Preset: casual)"
+    },
+    "s": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: s (Preset: casual)"
+    },
+    "a": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: a (Preset: casual)"
+    },
+    "b": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: b (Preset: casual)"
+    },
+    "c": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: c (Preset: casual)"
+    },
+    "d": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: d (Preset: casual)"
+    },
+    "e": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: e (Preset: casual)"
+    },
+    "supplylow": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: supplylow (Preset: casual)"
+    },
+    "exhide": {
+      "enabled": true,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: exhide (Preset: casual)"
+    },
+    "restex": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: restex (Preset: casual)"
+    },
+    "anytimelost": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: anytimelost (Preset: casual)"
+    },
+    "anycorruptedmod": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: anycorruptedmod (Preset: casual)"
+    },
+    "any5modded": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: any5modded (Preset: casual)"
+    },
+    "anyrare": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: anyrare (Preset: casual)"
+    },
+    "anymagic": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: anymagic (Preset: casual)"
+    },
+    "spirit20": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: spirit20 (Preset: casual)"
+    },
+    "skill20": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: skill20 (Preset: casual)"
+    },
+    "spirit19": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: spirit19 (Preset: casual)"
+    },
+    "skill19": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: skill19 (Preset: casual)"
+    },
+    "spiritgemprogression18": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: spiritgemprogression18 (Preset: casual)"
+    },
+    "spiritgemprogression17": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: spiritgemprogression17 (Preset: casual)"
+    },
+    "spiritgemprogression16": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: spiritgemprogression16 (Preset: casual)"
+    },
+    "spiritgemprogression15": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: spiritgemprogression15 (Preset: casual)"
+    },
+    "spiritgemprogression14": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: spiritgemprogression14 (Preset: casual)"
+    },
+    "skillgemprogression18": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: skillgemprogression18 (Preset: casual)"
+    },
+    "skillgemprogression17": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: skillgemprogression17 (Preset: casual)"
+    },
+    "skillgemprogression16": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: skillgemprogression16 (Preset: casual)"
+    },
+    "skillgemprogression15": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: skillgemprogression15 (Preset: casual)"
+    },
+    "skillgemprogression14": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: skillgemprogression14 (Preset: casual)"
+    },
+    "spiritcampaign": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: spiritcampaign (Preset: casual)"
+    },
+    "skillcampaign": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: skillcampaign (Preset: casual)"
+    },
+    "supportcampaign": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: supportcampaign (Preset: casual)"
+    },
+    "supportearlymaps": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: supportearlymaps (Preset: casual)"
+    },
+    "otherspiriteg": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: otherspiriteg (Preset: casual)"
+    },
+    "otherskilleg": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: otherskilleg (Preset: casual)"
+    },
+    "othersupporteg": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: othersupporteg (Preset: casual)"
+    },
+    "corruptedmaphider": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: corruptedmaphider (Preset: casual)"
+    },
+    "mirroredmaphider": {
+      "enabled": false,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: mirroredmaphider (Preset: casual)"
+    },
+    "decomap1": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: decomap1 (Preset: casual)"
+    },
+    "decomap2": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: decomap2 (Preset: casual)"
+    },
+    "decomap3": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: decomap3 (Preset: casual)"
+    },
+    "decomap4": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: decomap4 (Preset: casual)"
+    },
+    "deco_wsup_t16": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t16 (Preset: casual)"
+    },
+    "deco_wsup_t15": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t15 (Preset: casual)"
+    },
+    "deco_wsup_t14": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t14 (Preset: casual)"
+    },
+    "deco_wsup_t13": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t13 (Preset: casual)"
+    },
+    "deco_wsup_t12": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t12 (Preset: casual)"
+    },
+    "deco_wsup_t11": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t11 (Preset: casual)"
+    },
+    "deco_wsup_t10": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t10 (Preset: casual)"
+    },
+    "deco_wsup_t9": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t9 (Preset: casual)"
+    },
+    "deco_wsup_t8": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t8 (Preset: casual)"
+    },
+    "deco_wsup_t7": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t7 (Preset: casual)"
+    },
+    "deco_wsup_t6": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t6 (Preset: casual)"
+    },
+    "deco_wsup_t5": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t5 (Preset: casual)"
+    },
+    "deco_wsup_t4": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t4 (Preset: casual)"
+    },
+    "deco_wsup_t3": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t3 (Preset: casual)"
+    },
+    "deco_wsup_t2": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t2 (Preset: casual)"
+    },
+    "deco_wsup_t1": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_wsup_t1 (Preset: casual)"
+    },
+    "decomap1overleveled": {
+      "enabled": false,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: decomap1overleveled (Preset: casual)"
+    },
+    "decomap2overleveled": {
+      "enabled": false,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: decomap2overleveled (Preset: casual)"
+    },
+    "decomap3overleveled": {
+      "enabled": false,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: decomap3overleveled (Preset: casual)"
+    },
+    "decomap4overleveled": {
+      "enabled": false,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: decomap4overleveled (Preset: casual)"
+    },
+    "deco_corruptedmod": {
+      "enabled": true,
+      "category": "Decorators",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: deco_corruptedmod (Preset: casual)"
+    },
+    "enchanted1": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: enchanted1 (Preset: casual)"
+    },
+    "enchanted2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: enchanted2 (Preset: casual)"
+    },
+    "enchanted34": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: enchanted34 (Preset: casual)"
+    },
+    "corrupted8high": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: corrupted8high (Preset: casual)"
+    },
+    "corrupted8": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: corrupted8 (Preset: casual)"
+    },
+    "waystone_t16": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t16 (Preset: casual)"
+    },
+    "waystone_t15": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t15 (Preset: casual)"
+    },
+    "waystone_t14": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t14 (Preset: casual)"
+    },
+    "waystone_t13": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t13 (Preset: casual)"
+    },
+    "waystone_t12": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t12 (Preset: casual)"
+    },
+    "waystone_t11": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t11 (Preset: casual)"
+    },
+    "waystone_t10": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t10 (Preset: casual)"
+    },
+    "waystone_t9": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t9 (Preset: casual)"
+    },
+    "waystone_t8": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t8 (Preset: casual)"
+    },
+    "waystone_t7": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t7 (Preset: casual)"
+    },
+    "waystone_t6": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t6 (Preset: casual)"
+    },
+    "waystone_t5": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t5 (Preset: casual)"
+    },
+    "waystone_t4": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t4 (Preset: casual)"
+    },
+    "waystone_t3": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t3 (Preset: casual)"
+    },
+    "waystone_t2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t2 (Preset: casual)"
+    },
+    "waystone_t1": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_t1 (Preset: casual)"
+    },
+    "waystone_rares_other": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: waystone_rares_other (Preset: casual)"
+    },
+    "rare": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: rare (Preset: casual)"
+    },
+    "magic": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: magic (Preset: casual)"
+    },
+    "wisdomstart": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: wisdomstart (Preset: casual)"
+    },
+    "wisdom": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: wisdom (Preset: casual)"
+    },
+    "artifactlike": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: artifactlike (Preset: casual)"
+    },
+    "supplymagic": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: supplymagic (Preset: casual)"
+    },
+    "supplieslow": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: supplieslow (Preset: casual)"
+    },
+    "vaultkeysrare": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: vaultkeysrare (Preset: casual)"
+    },
+    "vaultkeys": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: vaultkeys (Preset: casual)"
+    },
+    "superkeys": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: superkeys (Preset: casual)"
+    },
+    "logbookshigh": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: logbookshigh (Preset: casual)"
+    },
+    "logbookslow": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: logbookslow (Preset: casual)"
+    },
+    "sekhemaring": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: sekhemaring (Preset: casual)"
+    },
+    "multispecialhigh": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: multispecialhigh (Preset: casual)"
+    },
+    "overqualityuniques": {
+      "enabled": true,
+      "category": "Uniques",
+      "tier_level": 1,
+      "unidentified_tier": null,
+      "description": "Tier: overqualityuniques (Preset: casual)"
+    },
+    "oversocketuniques1": {
+      "enabled": true,
+      "category": "Sockets",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: oversocketuniques1 (Preset: casual)"
+    },
+    "oversocketuniques2": {
+      "enabled": true,
+      "category": "Sockets",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: oversocketuniques2 (Preset: casual)"
+    },
+    "multispecial": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: multispecial (Preset: casual)"
+    },
+    "earlyleague": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: earlyleague (Preset: casual)"
+    },
+    "corrupteduniques": {
+      "enabled": true,
+      "category": "Uniques",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: corrupteduniques (Preset: casual)"
+    },
+    "t3boss": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t3boss (Preset: casual)"
+    },
+    "hideable": {
+      "enabled": true,
+      "category": "Hide Layers",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: hideable (Preset: casual)"
+    },
+    "t5": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t5 (Preset: casual)"
+    },
+    "exraretablets": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: exraretablets (Preset: casual)"
+    },
+    "trialkeyultimatumreward": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: trialkeyultimatumreward (Preset: casual)"
+    },
+    "trialkeysanctumtop": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: trialkeysanctumtop (Preset: casual)"
+    },
+    "trialkeysanctumhigh": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: trialkeysanctumhigh (Preset: casual)"
+    },
+    "trialkeysanctumlow": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: trialkeysanctumlow (Preset: casual)"
+    },
+    "trialspecial": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: trialspecial (Preset: casual)"
+    },
+    "trialkeyultimatumtop": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: trialkeyultimatumtop (Preset: casual)"
+    },
+    "trialkeyultimatumhigh": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: trialkeyultimatumhigh (Preset: casual)"
+    },
+    "trialkeyultimatumlow": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: trialkeyultimatumlow (Preset: casual)"
+    },
+    "relickeyssafe": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: relickeyssafe (Preset: casual)"
+    },
+    "outdatedlevelflaska": {
+      "enabled": true,
+      "category": "Flasks",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: outdatedlevelflaska (Preset: casual)"
+    },
+    "outdatedlevelflaskb": {
+      "enabled": true,
+      "category": "Flasks",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: outdatedlevelflaskb (Preset: casual)"
+    },
+    "outdatedlevelflaskc": {
+      "enabled": true,
+      "category": "Flasks",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: outdatedlevelflaskc (Preset: casual)"
+    },
+    "outdatedlevelflaskd": {
+      "enabled": true,
+      "category": "Flasks",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: outdatedlevelflaskd (Preset: casual)"
+    },
+    "outdatedlevelflaske": {
+      "enabled": true,
+      "category": "Flasks",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: outdatedlevelflaske (Preset: casual)"
+    },
+    "t6": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t6 (Preset: casual)"
+    },
+    "t7": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t7 (Preset: casual)"
+    },
+    "t8": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: t8 (Preset: casual)"
+    },
+    "selected": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: selected (Preset: casual)"
+    },
+    "jewellery": {
+      "enabled": true,
+      "category": "Jewellery - Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: jewellery (Preset: casual)"
+    },
+    "ar": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: ar (Preset: casual)"
+    },
+    "ev": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: ev (Preset: casual)"
+    },
+    "es": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: es (Preset: casual)"
+    },
+    "arev": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: arev (Preset: casual)"
+    },
+    "ares": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: ares (Preset: casual)"
+    },
+    "eves": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: eves (Preset: casual)"
+    },
+    "foci": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: foci (Preset: casual)"
+    },
+    "shields": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: shields (Preset: casual)"
+    },
+    "sceptres": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: sceptres (Preset: casual)"
+    },
+    "staves": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: staves (Preset: casual)"
+    },
+    "bows": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: bows (Preset: casual)"
+    },
+    "quivers": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: quivers (Preset: casual)"
+    },
+    "crossbows": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: crossbows (Preset: casual)"
+    },
+    "spears": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: spears (Preset: casual)"
+    },
+    "bucklers": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: bucklers (Preset: casual)"
+    },
+    "onehandmaces": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: onehandmaces (Preset: casual)"
+    },
+    "twohandmaces": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: twohandmaces (Preset: casual)"
+    },
+    "quarterstaves": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: quarterstaves (Preset: casual)"
+    },
+    "anythingact1": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: anythingact1 (Preset: casual)"
+    },
+    "anythingact2": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: anythingact2 (Preset: casual)"
+    },
+    "largemagic": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: largemagic (Preset: casual)"
+    },
+    "medium1": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: medium1 (Preset: casual)"
+    },
+    "medium2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: medium2 (Preset: casual)"
+    },
+    "noticeearly": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: noticeearly (Preset: casual)"
+    },
+    "tiny": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: tiny (Preset: casual)"
+    },
+    "earlyboots": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: earlyboots (Preset: casual)"
+    },
+    "firstareasmagic": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: firstareasmagic (Preset: casual)"
+    },
+    "firstareasnormal": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: firstareasnormal (Preset: casual)"
+    },
+    "normal1": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normal1 (Preset: casual)"
+    },
+    "normal2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normal2 (Preset: casual)"
+    },
+    "normal3": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normal3 (Preset: casual)"
+    },
+    "normal4": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normal4 (Preset: casual)"
+    },
+    "normal5": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normal5 (Preset: casual)"
+    },
+    "normal6": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: normal6 (Preset: casual)"
+    },
+    "magic1": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: magic1 (Preset: casual)"
+    },
+    "magic2": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: magic2 (Preset: casual)"
+    },
+    "magic3": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: magic3 (Preset: casual)"
+    },
+    "magic4": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: magic4 (Preset: casual)"
+    },
+    "magic5": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: magic5 (Preset: casual)"
+    },
+    "magic6": {
+      "enabled": false,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: magic6 (Preset: casual)"
+    },
+    "rest": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: rest (Preset: casual)"
+    },
+    "act2": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: act2 (Preset: casual)"
+    },
+    "act1": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: act1 (Preset: casual)"
+    },
+    "anyfinal": {
+      "enabled": true,
+      "category": "Catch-all",
+      "tier_level": 0,
+      "unidentified_tier": null,
+      "description": "Tier: anyfinal (Preset: casual)"
+    },
+    "final": {
+      "enabled": true,
+      "category": "Other",
+      "tier_level": -1,
+      "unidentified_tier": null,
+      "description": "Tier: final (Preset: casual)"
+    }
+  },
+  "summary": {
+    "total_tiers": 309,
+    "enabled": 272,
+    "disabled": 37
+  }
+}
